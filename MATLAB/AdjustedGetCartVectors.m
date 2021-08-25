@@ -1,5 +1,5 @@
 
-% adjusted Ionis Agtzidis script to make rotation work
+% adjusted Agtzidis' script to make rotation work
 % GetCartVectors.m
 %
 % This function returns an nx3 arrays of cartesian vectors for the eye direction
